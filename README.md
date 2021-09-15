@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Let's use the ideas already there...
+Let's use the ideas already here...
 
 - 🔭 I’m currently working on Data Analytics, DBA and developing my web portfolio
 - ⚡ I'm trying to develop a Mobile App
