@@ -15,7 +15,7 @@ Let's use the ideas already here...
 <!---
 - 🤔 I’m looking for help with 
 -->
-- 💬 Ask me about SQL - Hadoop - C - C# - HTML - CSS - JS - Python - MicroStrategy
+- 💬 Ask me about SQL - SSIS - Hadoop - C - C# - HTML - CSS - JS - Python - MicroStrategy
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristianmrosales/) - [Twitter](https://twitter.com/Crispy_csb)
 <!--
 - 😄 Pronouns: ...
