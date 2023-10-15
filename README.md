@@ -15,7 +15,7 @@ Let's use the ideas already here...
 - 💬 Ask me about SQL - SSIS - Hadoop - C - C# - HTML - CSS - JS - Python - MicroStrategy - Tableau - Looker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristianmrosales/)
 
-- 🤔 2022/03/01: It's time i give this repo a face lift
+<!-- - 🤔 2022/03/01: It's time i give this repo a face lift -->
 
 <!--
 - 😄 Pronouns: ...
