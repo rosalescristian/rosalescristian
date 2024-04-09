@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 Let's use the ideas already here...
 
-- 🔭 I’m currently working as Data Analyst, learning Data Science and developing my web portfolio
+- 🔭 I’m currently working as Data Engineer and developing my web portfolio
 <!-- - ⚡ I'm trying to develop a Mobile App -->
 - 🌱 I’m learning PHP @UTN
 - 👯 I’m looking to collaborate on anything fun and challenging
