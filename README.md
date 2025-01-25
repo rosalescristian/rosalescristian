@@ -10,9 +10,9 @@ Let's use the ideas already here...
 
 - 🔭 I’m currently working as Data Engineer and developing my web portfolio
 <!-- - ⚡ I'm trying to develop a Mobile App -->
-- 🌱 I’m learning PHP @UTN
+- 🌱 I’m learning Mobile Development @UTN
 - 👯 I’m looking to collaborate on anything fun and challenging
-- 💬 Ask me about SQL - SSIS - Hadoop - C - C# - HTML - CSS - JS - Python - MicroStrategy - Tableau - Looker
+- 💬 Ask me about SQL - SSIS - Hadoop - C - C# - PHP - HTML - CSS - JS - Python - MicroStrategy - Tableau - Looker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristianmrosales/)
 
 <!-- - 🤔 2022/03/01: It's time i give this repo a face lift -->
