@@ -14,7 +14,12 @@ Let's use the ideas already here...
 - 👯 I’m looking to collaborate on anything fun and challenging
 - 💬 Ask me about SQL - SSIS - Hadoop - C - C# - PHP - HTML - CSS - JS - TS - Angular - Python - MicroStrategy - Tableau - Looker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cristianmrosales/)
-- My [Website:](https://cristianrosales.com.ar/)
+- My [Website](https://cristianrosales.com.ar/) <img src="https://flagicons.lipis.dev" width="20"><img src="https://flagicons.lipis.dev" width="20">
+- <!-- Argentina -->
+
+
+<!-- España -->
+
 
 <!-- - 🤔 2022/03/01: It's time i give this repo a face lift -->
 
